@@ -1,6 +1,6 @@
-Index.html
-/images
-/styles
+<!DOCTYPE html>
+<a href="Images">Page</a>
+<a href="./Images">Page</a>/styles
 /projects
 /project-1
 /project-2
